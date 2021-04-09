@@ -33,7 +33,7 @@ a.a{
     text-decoration: none;
     margin-right: 200px;
     margin-left: 50px;
-    margin-top: 12px;
+    margin-top: 6px;
     
     /* margin-left: px; */
 }
@@ -254,14 +254,14 @@ div.subscribe{
     border-radius: 30px;
     height: 400px;
     margin-left: 25px;
-    background-image: url(/img/bg.jpg);
+    background-image: url(img/bg.jpg);
     background-size: cover;
     margin-bottom: 40px;
 }
 
 
 div.section{
-    background-image: url(/img/bg.jpg);
+    background-image: url(img/bg.jpg);
     background-size: cover;
     width: 100%;
     margin: 0;
@@ -275,3 +275,11 @@ div.section{
 
 
 
+
+input.entry[type=email] {
+    background-color: white;
+    background-image: url('img/it.png');
+    background-position: 8px 16px;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+  }
